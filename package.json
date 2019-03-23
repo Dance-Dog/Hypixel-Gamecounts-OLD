@@ -1,0 +1,13 @@
+{
+  "name": "gamecount-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "DanceDog",
+  "license": "ISC",
+  "dependencies": {
+    "hypixeljs": "^1.2.0",
+    "minecraft-protocol": "^1.8.0",
+    "mineflayer": "^2.7.3"
+  }
+}

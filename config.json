@@ -1,0 +1,45 @@
+{
+  "dataFilePath": "path/to/playerCounts.json",
+  "gameStands": {
+    "bw": {
+      "name": "Bed Wars",
+      "pos": [11.5, 79.90625, 22.5]
+    },
+    "sw": {
+      "name": "Skywars",
+      "pos": [5.5, 80.90625, 22.5]
+    },
+    "duels": {
+      "name": "Duels",
+      "pos": [10.5, 79.90625, 25.5]
+    },
+    "mm": {
+      "name": "Murder Mystery",
+      "pos": [10.5, 79.90625, 19.5]
+    },
+    "bb": {
+      "name": "Build Battle",
+      "pos": [5.5, 80.90625, 24.5]
+    },
+    "home": {
+      "name": "Housing",
+      "pos": [5.5, 80.90625, 20.5]
+    },
+    "ptl": {
+      "name": "Prototype Games",
+      "pos": [6.5, 80.90625, 26.5]
+    },
+    "a": {
+      "name": "Arcade Games",
+      "pos": [6.5, 80.90625, 18.5]
+    },
+    "tnt": {
+      "name": "TNT Games",
+      "pos": [6.5, 80.90625, 28.5]
+    },
+    "bridge": {
+      "name": "The Bridges",
+      "pos": [12.5, 78.90625, 15.5]
+    }
+  }
+}
